@@ -217,7 +217,7 @@ class CellColor {
 }
 
 // Criação de células aleatórias
-const numCells = 4000;
+const numCells = 3000;
 const cells = [];
 
 for (let i = 0; i < numCells; i++) {
